@@ -1,0 +1,28 @@
+name: Ryan Yurada
+favicon: null
+layout_spectrum: 0.5513770238030702
+typography_spectrum: 0.47894371673464775
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.49166632490232587
+  lightness: 0.6433380809612572
+  saturation: 0.2995311126578599
+  rhythmicContrast: 0.7034182925708592
+purpose: []
